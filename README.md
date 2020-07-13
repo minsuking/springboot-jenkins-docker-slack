@@ -4,7 +4,7 @@
 모든 코드는 [Github](https://github.com/jojoldu/springboot-jenkins-docker-slack)에 있기 때문에 함께 보시면 더 이해하기 쉬우실 것 같습니다.  
 (공부한 내용을 정리하는 [Github](https://github.com/jojoldu/blog-code)와 세미나+책 후기를 정리하는 [Github](https://github.com/jojoldu/review), 이 모든 내용을 담고 있는 [블로그](http://jojoldu.tistory.com/)가 있습니다. )<br/>
 
-탐내에서 **젠킨스로 빌드/배포**를 관리하고 있습니다.  
+팀 내에서 **젠킨스로 빌드/배포**를 관리하고 있습니다.  
 여태 CI를 경험해본적이 없어 연습을 해봐야겠다고 생각을 하였습니다.  
 개인 서버가 별도로 없어서 어디에 구축을 해야하나 고민하던 중, 도커가 생각나서 도커에 구축하여 같이 연습을 하게 되었습니다.  
 도커와 젠킨스 초보이다보니 잘못된 내용이 있을 수 있습니다.  
